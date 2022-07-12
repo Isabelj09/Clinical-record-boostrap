@@ -1,0 +1,15 @@
+.bg-color {
+    background-color: rgba(44, 181, 154, 0.7) ;
+}
+
+.bg-color a { 
+    color: white;
+}
+
+.effect {
+    transition: box-shadow 0.3s;
+}
+
+.effect:hover {
+    box-shadow: 0 25px 50px -12px rgb(0, 0, 0, 0.3);
+}
